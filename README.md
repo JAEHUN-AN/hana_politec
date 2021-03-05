@@ -1,1 +1,1 @@
-# hana_politec
+# hana_polytech
