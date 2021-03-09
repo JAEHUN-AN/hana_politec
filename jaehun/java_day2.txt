@@ -1,0 +1,16 @@
+# 자바 기초
+
+## 식별자, 자료형, 연산자
+- char 2byte
+- int, float 4byte
+- long, double 8byte
+
+## 변수 상수 자료형
+- 상수 : ex)final double PI = 3.14 
+
+## 연산자 
+-instanceof : 객체 타입 비교
+-boolean : true, false로 return // 1,0 없음
+
+##조건문
+- if, switch
