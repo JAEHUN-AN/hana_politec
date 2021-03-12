@@ -1,3 +1,3 @@
 # hana_polytech
 
-## 1. JAVdfㅓㅁ
+## 1. JAVA
