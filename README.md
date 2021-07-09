@@ -1,4 +1,4 @@
 # hana_polytech
 
-## 1. JAVAa
+## 1. JAVA
 ## 2. JAVa
