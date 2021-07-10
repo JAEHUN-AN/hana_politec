@@ -1,4 +1,4 @@
 # hana_polytech
 
 ## 1. JAVA
-## 2. JAVa
+## 2. JAV
