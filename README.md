@@ -1,4 +1,4 @@
-# hana_polytech
+# polytech
 
 ## 1. JAVA
 ## 2. JAv
